@@ -18,7 +18,7 @@
 
 <div style=text-align:center><h1> Feedback 📜</h1></div>
 
-<p>Sinta-se a vontade em ver meu Code e fazer comentários sobre, estou começando agora então qualquer análise, críticas e ensinamentos serão muito bem vindo.</p>
+<p>Sinta-se a vontade em ver meus trabalhos e fazer comentários sobre, estou começando agora então qualquer análise, críticas e ensinamentos serão muito bem vindo.</p>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edson.eduardoengbonelli@gmail.com)
 
