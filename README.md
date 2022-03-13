@@ -1,6 +1,6 @@
 <div style=text-align:center><h1>Oi! Eu sou Edson Bonelli 🖐️</h1></div>
 
-<div style=text-align:center><p style=font-size:15px>Estudante de programação na escola de técnologia Alura, atualmente estudando as formações Frontend, React e Flutter.</p></div>
+<div style=text-align:center><p style=font-size:15px>Estudante de programação na escola de técnologia Alura, atualmente estudando a formações Frontend.</p></div>
 
 <div style=text-align:center><h1>Contato 👇</h1></div>
 
