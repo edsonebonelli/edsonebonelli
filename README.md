@@ -1,6 +1,11 @@
 <div style=text-align:center><h1>Oi! Eu sou Edson Bonelli 🖐️</h1></div>
 
-<div style=text-align:center><p style=font-size:15px>Tel - (19) 9-8351-4369 Email - edson.eduardoengbonelli@gmail.com</p></div>
+<div style=text-align:center><p style=font-size:15px>Tel - (19) 9-8351-4369 Email - edson.eduardoengbonelli@gmail.com</p>
+  <p>Profissional com experiência em projetos de engenharia, auxiliando e desenvolvendo projetos em diversas áreas, tais como, Projeto de Combate a Incêndio industrial e Comercial, Projeto de Infraestrutura Urbana, Projetos de Cetesb na área Industrial, Projetos Residenciais para Aprovação, Gestão de projetos e Inovação.
+Forte experiência em softwares de desenvolvimento tais como, AutoCad, Revit e Pro-Matlab, desenvolvimento de planilhas de controle de estoque, orçamentos e diversos cálculos em Excel.</p>
+  <p>Aprendiz constante, formado em Engenharia, fascinado em descobrir como as coisas funcionam, gosto de trabalhar com desenvolvimento de novas ideias, gosto de trabalhar com melhorias continua e sou amante da Ciência e Astronomia.</p>
+  <p>Em 2021 decidi iniciar uma nova jornada no ramo da tecnologia, estou atualmente estudando a área de desenvolvimento tais como Front-end e Back-end e estou gostando bastante quero muito poder conseguir uma vaga nesse mercado de trabalho.</p>
+</div>
 
 <div style=text-align:center><h1>Contato 👇</h1></div>
 
