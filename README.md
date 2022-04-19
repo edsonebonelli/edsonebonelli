@@ -1,6 +1,6 @@
 <div style=text-align:center><h1>Oi! Eu sou Edson Bonelli 🖐️</h1></div>
 
-<div style=text-align:center><p style=font-size:15px>Estudante de programação na escola de técnologia Alura, atualmente estudando a formações Frontend.</p></div>
+<div style=text-align:center><p style=font-size:15px>Tel - (19) 9-8351-4369 Email - edson.eduardoengbonelli@gmail.com</p></div>
 
 <div style=text-align:center><h1>Contato 👇</h1></div>
 
