@@ -4,7 +4,12 @@
   <p>Profissional com experiência em projetos de engenharia, auxiliando e desenvolvendo projetos em diversas áreas, tais como, Projeto de Combate a Incêndio industrial e Comercial, Projeto de Infraestrutura Urbana, Projetos de Cetesb na área Industrial, Projetos Residenciais para Aprovação, Gestão de projetos e Inovação.
 Forte experiência em softwares de desenvolvimento tais como, AutoCad, Revit e Pro-Matlab, desenvolvimento de planilhas de controle de estoque, orçamentos e diversos cálculos em Excel.</p>
   <p>Aprendiz constante, formado em Engenharia, fascinado em descobrir como as coisas funcionam, gosto de trabalhar com desenvolvimento de novas ideias, gosto de trabalhar com melhorias continua e sou amante da Ciência e Astronomia.</p>
-  <p>Em 2021 decidi iniciar uma nova jornada no ramo da tecnologia, estou atualmente estudando a área de desenvolvimento tais como Front-end e Back-end e estou gostando bastante quero muito poder conseguir uma vaga nesse mercado de trabalho.</p>
+  <p>Em 2021 decidi iniciar uma nova jornada no ramo da tecnologia, estou atualmente estudando a área de desenvolvimento em Back-end, estou me dedicando cada dia mais na área de BD, algoritmos e Python como linguagem principal.</p>
+  <p> in English... </p>
+    <p>Professional with experience in engineering projects, assisting and developing projects in several areas, such as Industrial and Commercial Fire Fighting Project, Urban Infrastructure Project, Cetesb Projects in the Industrial Area, Residential Projects for Approval, Project Management and Innovation.
+Strong experience in development software such as AutoCad, Revit and Pro-Matlab, development of spreadsheets for inventory control, budgets and various calculations in Excel.</p>
+  <p>Constant learner, graduated in Engineering, fascinated in discovering how things work, I like to work with the development of new ideas, I like to work with continuous improvement and I am a lover of Science and Astronomy.</p>
+  <p>In 2021 I decided to start a new journey in the field of technology, I am currently studying the area of Back-end development, I'm dedicating myself more and more each day to the area of BD, algorithms and Python as the main language.</p>
 </div>
 
 <div style=text-align:center><h1>Contato 👇</h1></div>
