@@ -26,12 +26,6 @@ Strong experience in development software such as AutoCad, Revit and Pro-Matlab,
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ee.bonelli/)
 
-<div style=text-align:center><h1> Feedback 📜</h1></div>
-
-<p>Sinta-se a vontade em ver meus trabalhos e fazer comentários sobre, estou começando agora então qualquer análise, críticas e ensinamentos serão muito bem vindo.</p>
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edson.eduardoengbonelli@gmail.com)
-
 <div style=text-align:center><h1> Outros </h1></div>
 
 ![Edson Bonelli GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonebonelli&show_icons=true&theme=dracula)
@@ -40,5 +34,5 @@ Strong experience in development software such as AutoCad, Revit and Pro-Matlab,
 
 <div style=text-align:center><h1> Tecnologia até o momento </h1></div>
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
  
