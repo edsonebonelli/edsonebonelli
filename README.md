@@ -12,6 +12,10 @@ Strong experience in development software such as AutoCad, Revit and Pro-Matlab,
   <p>In 2021 I decided to start a new journey in the field of technology, I am currently studying the area of Back-end development, I'm dedicating myself more and more each day to the area of BD, algorithms and Python as the main language.</p>
 </div>
 
+<div style=text-align:center><h1>Estudos 👇</h1></div>
+
+![Alt ou título da imagem](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) ![Alt ou título da imagem](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+
 <div style=text-align:center><h1>Contato 👇</h1></div>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edson.eduardoengbonelli@gmail.com) 
@@ -31,6 +35,10 @@ Strong experience in development software such as AutoCad, Revit and Pro-Matlab,
 ![Edson Bonelli GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonebonelli&show_icons=true&theme=dracula)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&layout=compact)](https://github.com/edsonebonelli/github-readme-stats)
+
+<div style=text-align:center><h1> IDE </h1></div>
+
+![Alt ou título da imagem](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) 
 
 <div style=text-align:center><h1> Skills </h1></div>
 
