@@ -32,7 +32,19 @@ Strong experience in development software such as AutoCad, Revit and Pro-Matlab,
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&layout=compact)](https://github.com/edsonebonelli/github-readme-stats)
 
-<div style=text-align:center><h1> Tecnologia até o momento </h1></div>
+<div style=text-align:center><h1> Skills </h1></div>
 
-![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<div style=text-align:center><h1> DataBase </h1></div>
+
+![Alt ou título da imagem](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<div style=text-align:center><h1> Workspace Specs </h1></div>
+
+![Alt ou título da imagem](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Alt ou título da imagem](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
+
+
+
  
