@@ -45,8 +45,4 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
+👔 [LinkedIn][https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/]
