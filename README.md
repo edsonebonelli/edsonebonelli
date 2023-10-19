@@ -1,30 +1,17 @@
-# Olá 👋
-
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
-
-## Sobre mim
+## Olá 👋
 
 > Profissional Técnico em Informática e Infraestrutura, Graduando em Análise e Desenvolvimento de Sistemas pela FIAP,
 > conhecimento básico e estudando a 2 anos pela ALURA linguagens de programação como Java, Kotlin e Python.
 
-### ⚙️ GitHub Analytics
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-<table>
-  <tr>
-    <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
-      </td>
-    <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
-  </td>
-    <td>
-<br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonebonelli&theme=dark&hide_border=false" alt="Github stats" />
- </td>
-  </tr>
-</table><br/>
+## Faça um breve apresentação sobre você
 
----
+<img src="https://img.shields.io/static/v1?label=Overview&message=Edson Bonelli&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p> Estudando Análise e Desenvolvimento de Sistemas na **FIAP**<br/> Eu sou desenvolvedor **Back End**.</p>
+
+<hr>
 
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
@@ -43,6 +30,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
   <img src="https://profile-counter.glitch.me/edsonebonelli/count.svg" />  
 </p>
 
-## Rede sociais
+## Onde me Encontrar
 
-👔 [LinkedIn][https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/]
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
