@@ -1,38 +1,31 @@
-## Olá 👋
+## Olá
 
 > Profissional Técnico em Informática e Infraestrutura, Graduando em Análise e Desenvolvimento de Sistemas pela FIAP,
 > conhecimento básico e estudando a 2 anos pela ALURA linguagens de programação como Java, Kotlin e Python.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+## Projeto em Desenvolvimento 🔭
 
-## Faça um breve apresentação sobre você
+> Desenvolver uma Fintech que ajude o usuário a controlar suas fontes de receita, gastos, dívidas e investimentos.
+> Além de planejar metas e o caminho para atingir os objetivos financeiros, possibilitando ao usuário melhorar seu conforto e sua qualidade de vida.
 
+## GitHub Analytics ⚙️
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Edson Bonelli&color=f8efd4&style=for-the-badge&logo=GitHub">
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      </td>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+  </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonebonelli&theme=dark&hide_border=false" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
 
-> <p> Análise e Desenvolvimento de Sistemas na **FIAP**<p> 
-> <p> Eu sou desenvolvedor **Back End**.</p>
-
-<hr>
-
-## 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=edsonebonelli&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-</p>
-
----
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/edsonebonelli/count.svg" />  
-</p>
-
-## Onde me Encontrar
+## Onde me Encontrar 💬
 
 [![Linkedin](https://img.shields.io/badge/-EdsonBonelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/)
 [![Gmail Badge](https://img.shields.io/badge/-edson.eduardoengbonelli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:edson.eduardoengbonelli@gmail.com)
