@@ -32,6 +32,6 @@
 
 ## Onde me Encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:edson.eduardoengbonelli@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-EdsonBonelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/)
+[![Gmail Badge](https://img.shields.io/badge/-edson.eduardoengbonelli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:edson.eduardoengbonelli@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/edsonebonelli)
