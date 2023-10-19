@@ -9,7 +9,8 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Edson Bonelli&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> Estudando Análise e Desenvolvimento de Sistemas na **FIAP**<br/> Eu sou desenvolvedor **Back End**.</p>
+> <p> Estudando Análise e Desenvolvimento de Sistemas na **FIAP**<p> 
+> <p> Eu sou desenvolvedor **Back End**.</p>
 
 <hr>
 
