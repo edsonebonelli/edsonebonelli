@@ -12,14 +12,14 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <table>
   <tr>
     <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
       </td>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
   </td>
     <td>
 <br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false" alt="Github stats" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonebonelli&theme=dark&hide_border=false" alt="Github stats" />
  </td>
   </tr>
 </table><br/>
@@ -29,7 +29,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=edsonebonelli&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
@@ -40,7 +40,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg" />  
+  <img src="https://profile-counter.glitch.me/edsonebonelli/count.svg" />  
 </p>
 
 ## Rede sociais
