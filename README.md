@@ -1,12 +1,13 @@
-## Olá
+# Olá
 
 > Profissional Técnico em Informática e Infraestrutura, Graduando em Análise e Desenvolvimento de Sistemas pela FIAP,
 > conhecimento básico e estudando a 2 anos pela ALURA linguagens de programação como Java, Kotlin e Python.
 
-## Projeto em Desenvolvimento 🔭
+## Projeto que estou desenvolvendo pela FIAP 🔭
 
-> Desenvolver uma Fintech que ajude o usuário a controlar suas fontes de receita, gastos, dívidas e investimentos.
-> Além de planejar metas e o caminho para atingir os objetivos financeiros, possibilitando ao usuário melhorar seu conforto e sua qualidade de vida.
+## PTBank
+
+> O projeto PTBank é uma emocionante iniciativa fintech dedicada à promoção da educação financeira e ao incentivo de investimentos inteligentes por meio de um programa de recompensas baseado em pontos de cartão. Esta plataforma inovadora tem como objetivo capacitar indivíduos a tomar decisões financeiras sólidas e construir um futuro financeiro seguro, enquanto desfrutam de vantagens exclusivas de um sistema de recompensas dinâmico.
 
 ## GitHub Analytics ⚙️
 
