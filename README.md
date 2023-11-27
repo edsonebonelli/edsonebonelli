@@ -5,9 +5,9 @@
 
 ## Projeto que estou desenvolvendo pela FIAP 🔭
 
-## PTBank
+## NEXUSBank
 
-> O projeto PTBank é uma emocionante iniciativa fintech dedicada à promoção da educação financeira e ao incentivo de investimentos inteligentes por meio de um programa de recompensas baseado em pontos de cartão. Esta plataforma inovadora tem como objetivo capacitar indivíduos a tomar decisões financeiras sólidas e construir um futuro financeiro seguro, enquanto desfrutam de vantagens exclusivas de um sistema de recompensas dinâmico.
+> O projeto NEXUSBank é uma emocionante iniciativa fintech dedicada à promoção da educação financeira e ao incentivo de investimentos inteligentes por meio de um programa de recompensas baseado em pontos de cartão. Esta plataforma inovadora tem como objetivo capacitar indivíduos a tomar decisões financeiras sólidas e construir um futuro financeiro seguro, enquanto desfrutam de vantagens exclusivas de um sistema de recompensas dinâmico.
 
 ## GitHub Analytics ⚙️
 
