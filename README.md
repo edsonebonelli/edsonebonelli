@@ -1,7 +1,7 @@
 # Olá
 
 > Profissional Técnico em Informática e Infraestrutura, Graduando em Análise e Desenvolvimento de Sistemas pela FIAP,
-> conhecimento básico e estudando a 2 anos pela ALURA linguagens de programação como Java, Kotlin e Python.
+> e estudando a 2 anos pela ALURA linguagens de programação como Java, Kotlin e Python.
 
 ## Projeto que estou desenvolvendo pela FIAP 🔭
 
