@@ -1,7 +1,7 @@
 # Olá
 
-> Profissional Técnico em Informática e Infraestrutura, Graduando em Análise e Desenvolvimento de Sistemas pela FIAP,
-> e estudando a 2 anos pela ALURA linguagens de programação como Java, Kotlin e Python.
+> Durante minha jornada de experiência profissional sempre tive contato com gestão de projetos e a área de tecnologia onde minhas principais atividades construtivas foram: conhecimento básico na gestão e suporte a projetos de engenharia, contribuí para a implementação de práticas que otimizam a eficiência operacional, garantindo uma conclusão bem-sucedida e dentro do prazo. 
+> Como Técnico funções como: manutenção e otimização de sistemas e redes, realizei diagnósticos em softwares voltado a engenharia, realizei reparos técnicos e implementei atualizações para melhor funcionamento do setor. Ambos os cargos me permitiram aprimorar minhas habilidades de comunicação e trabalho em equipe.
 
 ## Projeto que estou desenvolvendo pela FIAP 🔭
 
