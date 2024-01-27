@@ -1,13 +1,10 @@
 # Olá
 
-> Durante minha jornada de experiência profissional sempre tive contato com gestão de projetos e a área de tecnologia onde minhas principais atividades construtivas foram: conhecimento básico na gestão e suporte a projetos de engenharia, contribuí para a implementação de práticas que otimizam a eficiência operacional, garantindo uma conclusão bem-sucedida e dentro do prazo. 
-> Como Técnico funções como: manutenção e otimização de sistemas e redes, realizei diagnósticos em softwares voltado a engenharia, realizei reparos técnicos e implementei atualizações para melhor funcionamento do setor. Ambos os cargos me permitiram aprimorar minhas habilidades de comunicação e trabalho em equipe.
+> Estudante de Análise e Desenvolvimento de Sistemas pela FIAP e me aperfeiçoando no movimento DevOps com formações da Alura.
+Tenho conhecimento em Python, Java, CI/CD, Containers Doker, Kubernetes e AWS. Estou em busca de uma oportunidade em uma empresa de T.I para poder colocar em prática tudo oque venho aprendendo.
 
-## Projeto que estou desenvolvendo pela FIAP 🔭
-
-## NEXUSBank
-
-> O projeto NEXUSBank é uma emocionante iniciativa fintech dedicada à promoção da educação financeira e ao incentivo de investimentos inteligentes por meio de um programa de recompensas baseado em pontos de cartão. Esta plataforma inovadora tem como objetivo capacitar indivíduos a tomar decisões financeiras sólidas e construir um futuro financeiro seguro, enquanto desfrutam de vantagens exclusivas de um sistema de recompensas dinâmico.
+> Systems Analysis and Development student at FIAP and improving myself in the DevOps movement with training from Alura.
+I have knowledge in Python, Java, CI/CD, Doker Containers, Kubernetes and AWS. I'm looking for an opportunity in an IT company so I can put into practice everything I've been learning.
 
 ## GitHub Analytics ⚙️
 
