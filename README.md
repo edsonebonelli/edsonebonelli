@@ -1,10 +1,11 @@
 # Olá
 
-> Estudante de Análise e Desenvolvimento de Sistemas pela FIAP e me aperfeiçoando no movimento DevOps com formações da Alura.
-Tenho conhecimento em Python, Java, CI/CD, Containers Doker, Kubernetes e AWS. Estou em busca de uma oportunidade em uma empresa de T.I para poder colocar em prática tudo oque venho aprendendo.
+> Durante minha jornada como técnico em infraestrutura no escritório particular de engenharia e projetos MSM, realizei diversas atividades de manutenção e otimização de sistemas e redes, diagnósticos em softwares voltados para engenharia, reparos técnicos e atualizações de novas tecnologias para melhoria do setor e desenvolvimento ágil.
 
-> Systems Analysis and Development student at FIAP and improving myself in the DevOps movement with training from Alura.
-I have knowledge in Python, Java, CI/CD, Doker Containers, Kubernetes and AWS. I'm looking for an opportunity in an IT company so I can put into practice everything I've been learning.
+> Além da minha experiência profissional, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Também realizando vários cursos na área de DevOps com formações da Alura, onde obtive certificações em microsserviços, padrões de projeto, CI/CD, containers Docker, Kubernetes e Pipelines. 
+> Tenho conhecimento em ferramentas como Azure DevOps Services, GitLab, Docker, Kubernetes, terraform e AWS, que me permitem solucionar problemas técnicos com eficiência e qualidade. 
+
+> Meu objetivo é continuar aprendendo e me desenvolvendo como profissional de T.I, buscando oportunidades em empresas que valorizem a inovação e a colaboração.
 
 ## GitHub Analytics ⚙️
 
