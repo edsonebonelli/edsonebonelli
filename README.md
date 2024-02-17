@@ -6,7 +6,7 @@
 >
 > Dentro dessas formações temos acessos a Frameworks como: Spring, Spring Boot, Django e Flask.
 >
-> Em parceria com a faculdade de Análise e Desenvolvimento de Sistemas estou desenvolvendo uma Fintech passando usando tecnologias e ferramentas como: Scrum, Kanban, Java, Python, Miro, Figma, SQL, etc.
+> Em parceria com a faculdade de Análise e Desenvolvimento de Sistemas estou desenvolvendo uma Fintech usando tecnologias e ferramentas como: Scrum, Kanban, Java, Python, Miro, Figma, SQL, etc.
 
 ## GitHub Analytics ⚙️
 
