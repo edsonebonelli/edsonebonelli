@@ -1,11 +1,12 @@
 # Olá
 
-> Durante minha jornada como técnico em infraestrutura no escritório particular de engenharia e projetos MSM, realizei diversas atividades de manutenção e otimização de sistemas e redes, diagnósticos em softwares voltados para engenharia, reparos técnicos e atualizações de novas tecnologias para melhoria do setor e desenvolvimento ágil.
+> Me especializando em desenvolvimento de sistemas Back-End com a FIAP e Alura com cursos como: Java, Kotlin e Python. Dentro dessas formações estou obtendo certificados como: Programando em Java com Orientações a Objetos, Programando em Python com Orientação a Objetos, Reflection, Exceptions, Threads, Build.
 
-> Além da minha experiência profissional, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Também realizando vários cursos na área de DevOps com formações da Alura, onde obtive certificações em microsserviços, padrões de projeto, CI/CD, containers Docker, Kubernetes e Pipelines. 
-> Tenho conhecimento em ferramentas como Azure DevOps Services, GitLab, Docker, Kubernetes, terraform e AWS, que me permitem solucionar problemas técnicos com eficiência e qualidade. 
+> Dentro de Java ferramentas de boas práticas como: SOLID, Design Patterns e Refatoração.
 
-> Meu objetivo é continuar aprendendo e me desenvolvendo como profissional de T.I, buscando oportunidades em empresas que valorizem a inovação e a colaboração.
+> Dentro dessas formações temos acessos a Frameworks como: Spring, Spring Boot, Django e Flask.
+
+> Em parceria com a faculdade de Análise e Desenvolvimento de Sistemas estou desenvolvendo uma Fintech passando usando tecnologias e ferramentas como: Scrum, Kanban, Java, Python, Miro, Figma, SQL, etc.
 
 ## GitHub Analytics ⚙️
 
