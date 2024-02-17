@@ -1,11 +1,11 @@
 # Olá
 
 > Me especializando em desenvolvimento de sistemas Back-End com a FIAP e Alura com cursos como: Java, Kotlin e Python. Dentro dessas formações estou obtendo certificados como: Programando em Java com Orientações a Objetos, Programando em Python com Orientação a Objetos, Reflection, Exceptions, Threads, Build.
-
+>
 > Dentro de Java ferramentas de boas práticas como: SOLID, Design Patterns e Refatoração.
-
+>
 > Dentro dessas formações temos acessos a Frameworks como: Spring, Spring Boot, Django e Flask.
-
+>
 > Em parceria com a faculdade de Análise e Desenvolvimento de Sistemas estou desenvolvendo uma Fintech passando usando tecnologias e ferramentas como: Scrum, Kanban, Java, Python, Miro, Figma, SQL, etc.
 
 ## GitHub Analytics ⚙️
