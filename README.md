@@ -1,12 +1,6 @@
 # Olá
 
-> Hoje graduando em Analise e Desenvolvimento de Sistemas pela FIAP, onde estou adquirindo várias habilidades técnicas e conhecimento em áreas como uso de ferramentas de trabalho ageis como Scrum e Kanbam além de tecnologias de desenvolvimento como Java, Python, Go, Banco de Dados e IA. Durante meus estudos, participo de projetos desafiadores que me permitiram desenvolver uma compreensão holística das demandas e tendências atuais do setor de tecnologia.
->
-> Também me especializando em desenvolvimento de sistemas Back-End com a Alura com cursos como: Java, Python e ferramentas de testes..
->
-> Dentro dessas formações estou obtendo certificados como: Programando em Java com Orientações a Objetos, Linguagem Go e Linguagem Kotlin. E também usando ferramentas de boas práticas como SOLID, Design Patterns, Refatoração, Spring, Spring Boot.
->
-> Costumo realizar bastante projetos com essas formações que se encontram no meu perfil do GitHub.
+> Estudando Engº de Software e aperfeiçoando em desenvolvimento.
 
 ## GitHub Analytics ⚙️
 
