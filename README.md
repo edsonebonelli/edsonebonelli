@@ -1,6 +1,6 @@
 # Olá
 
-> Estudando Engº de Software e aperfeiçoando em desenvolvimento.
+> Estudando Engº de Software e aperfeiçoando em DevOps.
 
 ## GitHub Analytics ⚙️
 
