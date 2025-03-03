@@ -1,6 +1,6 @@
 # Olá
 
-> Estudando Engº de Software e aperfeiçoando em DevOps.
+> Desenvolvedor Back-end com conhecimento em Java, Golang, Spring, Spring Boot | Desenvolvendo habilidades em DevOps como CI/CD, Kubernetes, Docker e Terraform | Minhas, principais Soft Skills é aprendizado rápido, colaboração, pensamento analítico e resolução de problemas.
 
 ## GitHub Analytics ⚙️
 
