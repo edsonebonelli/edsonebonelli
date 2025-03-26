@@ -1,6 +1,16 @@
 # Olá
 
-> Desenvolvedor Back-end com conhecimento em Java, Golang, Spring, Spring Boot | Desenvolvendo habilidades em DevOps como CI/CD, Kubernetes, Docker e Terraform | Minhas, principais Soft Skills é aprendizado rápido, colaboração, pensamento analítico e resolução de problemas.
+> Profissional com 2 anos de experiência em desenvolvimento, manutenção e otimização de APIs REST, aplicando boas práticas de segurança, desempenho e escalabilidade.
+> Com conhecimento em Clean Code, princípios SOLID e revisões de código para garantir qualidade e sustentabilidade no desenvolvimento.
+
+> Em 2024 participei do Bootcamp Aoop - an NTT Data Company, um programa focado em computação em nuvem, adquirindo experiência no design, implementação e gerenciamento de aplicações escaláveis ​em ambientes de nuvem pública, privada e híbrida.
+
+> Em 2023 iniciei minha jornada na tecnologia com o estágio na equipe de desenvolvimento Valve, onde tive a oportunidade de desenvolver habilidades como: integração de sistemas, implementação de endpoints seguros e autenticação JWT para controle de acesso. 
+Além disso, trabalhei com versionamento de código utilizando Git (GitHub/GitLab), metodologias ágeis e boas práticas de documentação e comunicação, contribuindo para a organização e eficiência dos projetos.
+
+> Apaixonado por desenvolvimento, melhoria e IoT, estou em busca de uma grande oportunidade para contribuir de forma significativa, aprimorar minhas habilidades e evoluir como profissional. Meu objetivo é atuar em projetos desafiadores, onde possa aplicar meus conhecimentos e continuar aprendendo, sempre com foco em inovação e excelência.
+
+> Mais abaixo no meu perfil na aba projeto tenho todos meus projetos desenvolvidos com mais detalhes.
 
 ## GitHub Analytics ⚙️
 
