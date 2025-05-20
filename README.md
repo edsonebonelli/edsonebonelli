@@ -1,44 +1,41 @@
-# Olá
-> Desenvolvedor Backend apaixonado por tecnologia, melhoria contínua, automação e IoT, estou em busca de uma grande oportunidade para contribuir de forma significativa, aprimorar minhas habilidades e evoluir minhas Soft Skills. Meu objetivo é atuar em projetos desafiadores, onde possa aplicar meus conhecimentos e continuar aprendendo, sempre com foco em inovação e excelência.
+<h1 align="center">👋 Olá, eu sou Edson Bonelli</h1>
 
-## GitHub Analytics ⚙️
+<div align="center">
+Atuando em projetos desafiadores que envolvam arquitetura de sistemas, conectividade inteligente e dados em tempo real. Acredito no poder da melhoria contínua, colaboração e aprendizado constante para gerar impacto real.
+</div>
 
+## ⚙️ GitHub Analytics
+<div align="center">
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=edsonebonelli&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=edsonebonelli&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-<br /><a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
+</div>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+---
 
-## Onde me Encontrar 💬
+## 🌐 Onde me encontrar
+<div align="center">
+  <a href="https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:edson.eduardoengbonelli@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/edsonebonelli" target="_blank">
+    <img src="https://img.shields.io/github/followers/edsonebonelli?label=GitHub&style=social" alt="GitHub"/>
+  </a>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/-EdsonBonelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/)
-[![Gmail Badge](https://img.shields.io/badge/-edson.eduardoengbonelli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:edson.eduardoengbonelli@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/edsonebonelli)
+
