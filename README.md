@@ -1,9 +1,3 @@
-<h1 align="center">👋 Olá, eu sou Edson Bonelli</h1>
-
-<div align="center">
-Atuando em projetos desafiadores que envolvam arquitetura de sistemas, conectividade inteligente e dados em tempo real. Acredito no poder da melhoria contínua, colaboração e aprendizado constante para gerar impacto real.
-</div>
-
 ## ⚙️ GitHub Analytics
 <div align="center">
 <table>
@@ -22,9 +16,7 @@ Atuando em projetos desafiadores que envolvam arquitetura de sistemas, conectivi
   </tr>
 </table>
 </div>
-
 ---
-
 ## 🌐 Onde me encontrar
 <div align="center">
   <a href="https://www.linkedin.com/in/edson-eduardo-bonelli-93a24b144/" target="_blank">
