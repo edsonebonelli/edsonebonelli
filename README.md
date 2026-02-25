@@ -1,10 +1,5 @@
 # Olá! 👋 Bem-vindo ao meu perfil
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonebonelli&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonebonelli&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
 ## 🔧 Tecnologias que utilizo
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
